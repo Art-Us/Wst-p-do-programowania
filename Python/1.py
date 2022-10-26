@@ -21,5 +21,5 @@ elif co_robimy == "4":
 elif co_robimy == "5":
     res=ar1**ar2
 else:
-    res="błąd!"
+    res="błąd"
 print(f'Wynik: {res}')
