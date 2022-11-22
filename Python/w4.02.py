@@ -24,6 +24,8 @@ else:
 
 zestaw1_2 = list1 + list2
 print(zestaw1_2)
-zestaw1_2.sort()
-print(zestaw1_2)
+'''zestaw1_2.sort()
+print(zestaw1_2)'''
+L2=sorted(zestaw1_2)
+print(L2)
 
