@@ -23,4 +23,4 @@ for k in L:
  if k in sample_dict:
   del sample_dict[k]         #print(sample_dict.pop(k.None))
 print(sample_dict)
-
+ #
